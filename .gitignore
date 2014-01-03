@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+*.cpp
+*.pro
+*.pro.user
+Makefile
+Mushroom
